@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>com.haswalk.dbaccess</groupId>
-  <artifactId>db-access</artifactId>
+  <groupId>com.haswalk.datamining</groupId>
+  <artifactId>spark-ext</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190531.072729</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20190601.073234</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190531072729</lastUpdated>
+    <lastUpdated>20190601073234</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20190531.072729-5</value>
-        <updated>20190531072729</updated>
+        <value>1.0-20190601.073234-1</value>
+        <updated>20190601073234</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20190531.072729-5</value>
-        <updated>20190531072729</updated>
+        <value>1.0-20190601.073234-1</value>
+        <updated>20190601073234</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

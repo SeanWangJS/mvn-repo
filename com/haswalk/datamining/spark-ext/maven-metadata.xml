@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.haswalk.dbaccess</groupId>
-  <artifactId>db-access</artifactId>
+  <groupId>com.haswalk.datamining</groupId>
+  <artifactId>spark-ext</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190531072729</lastUpdated>
+    <lastUpdated>20190601073234</lastUpdated>
   </versioning>
 </metadata>
